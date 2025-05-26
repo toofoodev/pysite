@@ -1,0 +1,15 @@
+# Python Websites
+# PySite:
+def pysite_indexpy():
+    print("Skibidi PySite")
+    print("\n")
+    web()
+def pysite_poop_indexpy():
+    print("POOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOP")
+    print("\n")
+    web()
+# Wes:
+def wes_indexpy():
+    print("WES WES WES WES WES WES WES WES WES WES WES WES WES WES WES WES WES WES WES WES WES WES WES WES WES WES WES WES WES WES WES WES WES WES")
+    print("\n")
+    web()
