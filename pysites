@@ -13,3 +13,30 @@ def wes_indexpy():
     print("WES WES WES WES WES WES WES WES WES WES WES WES WES WES WES WES WES WES WES WES WES WES WES WES WES WES WES WES WES WES WES WES WES WES")
     print("\n")
     web()
+def wes_wesisgoofy_wrongpy():
+    # PySite:Hidden
+    print("WRONG")
+    print("WRONG")
+    print("WRONG")
+    print("WRONG")
+    print("WRONG")
+    print("WRONG")
+    print("WRONG")
+    print("WRONG")
+    print("WRONG")
+    print("WRONG")
+    print("WRONG")
+    print("WRONG")
+    print("WRONG")
+    print("WRONG")
+    print("WRONG\n")
+    web()
+def wes_wesisgoofy_indexpy(): 
+    print("Wes is very goofy.")
+    print("Is Wes goofy?")
+    inputuser = input("Yes or no?\n")
+    if inputuser == "yes":
+        print("Good!\n")
+        web()
+    else:
+        wes_wesisgoofy_wrongpy()
